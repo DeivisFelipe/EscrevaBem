@@ -1,30 +1,30 @@
-# ?? Escreva Bem
+# âœï¸ Escreva Bem
 
-**Escreva Bem** é uma plataforma educacional que utiliza **Inteligência Artificial ??** para auxiliar no aprendizado da língua portuguesa.  
-Seu principal objetivo é **fortalecer as habilidades de escrita e compreensão da norma culta** de forma acessível e interativa.
+**Escreva Bem** Ã© uma plataforma educacional que utiliza **InteligÃªncia Artificial ğŸ¤–** para auxiliar no aprendizado da lÃ­ngua portuguesa.  
+Seu principal objetivo Ã© **fortalecer as habilidades de escrita e compreensÃ£o da norma culta** de forma acessÃ­vel e interativa.
 
-## ?? Funcionalidades Futuras
+## ğŸŒŸ Funcionalidades Futuras
 
-Entre os recursos planejados para as próximas versões do sistema, destacam-se:
+Entre os recursos planejados para as prÃ³ximas versÃµes do sistema, destacam-se:
 
-- ?? Classificação de palavras (gramatical e morfológica)  
-- ??? Análise semântica de orações  
-- ?? Soletração inteligente de palavras  
-- ?? Apoio no desenvolvimento de textos e redações
+- ğŸ§  ClassificaÃ§Ã£o de palavras (gramatical e morfolÃ³gica)  
+- ğŸ—£ï¸ AnÃ¡lise semÃ¢ntica de oraÃ§Ãµes  
+- ğŸ”¤ SoletraÃ§Ã£o inteligente de palavras  
+- ğŸ“ Apoio no desenvolvimento de textos e redaÃ§Ãµes
 
-## ??? Estrutura do Projeto
+## ğŸ› ï¸ Estrutura do Projeto
 
 O sistema foi desenvolvido com o framework **Laravel** como base principal, garantindo robustez e escalabilidade.
 
-## ?? Contribuição
+## ğŸ¤ ContribuiÃ§Ã£o
 
-Contribuições são **muito bem-vindas!**  
+ContribuiÃ§Ãµes sÃ£o **muito bem-vindas!**  
 Se quiser participar do projeto:
 
-1. Faça um **fork** deste repositório  
-2. Implemente suas melhorias ou correções  
-3. Envie um **Pull Request** para análise ?
+1. FaÃ§a um **fork** deste repositÃ³rio  
+2. Implemente suas melhorias ou correÃ§Ãµes  
+3. Envie um **Pull Request** para anÃ¡lise âœ¨
 
-## ?? Licença
+## ğŸ“„ LicenÃ§a
 
-Este projeto é **open-source** e está licenciado sob os termos da [Licença MIT](https://opensource.org/licenses/MIT) ??
+Este projeto Ã© **open-source** e estÃ¡ licenciado sob os termos da [LicenÃ§a MIT](https://opensource.org/licenses/MIT) ğŸ‘
