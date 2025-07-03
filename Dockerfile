@@ -6,6 +6,6 @@ RUN apt-get update && apt-get install -y \
 
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
-COPY docker/dev/php.ini /usr/local/etc/php/php.ini
+COPY .docker/dev/php.ini /usr/local/etc/php/php.ini
 
 WORKDIR /var/www
