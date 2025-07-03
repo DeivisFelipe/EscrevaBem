@@ -64,8 +64,25 @@ services:
     networks:
       - escrevabem
 
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: escrevabem-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@escrevabem.local
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "8081:80"
+    depends_on:
+      - postgres
+    networks:
+      - escrevabem
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+
 volumes:
   pgdata:
+  pgadmin_data:
 
 networks:
   escrevabem:
