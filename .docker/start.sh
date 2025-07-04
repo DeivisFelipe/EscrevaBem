@@ -18,8 +18,8 @@ php artisan session:table
 echo "[🗃️] Rodando migrations..."
 php artisan migrate --force
 
-echo "[🔑] Instalando Passport..."
-php artisan passport:install
+echo "[🚀] Instalando Laravel Passport..."
+php artisan passport:install --force
 
 echo "[🔗] Criando storage:link..."
 php artisan storage:link
